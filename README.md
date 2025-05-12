@@ -18,9 +18,9 @@ clone the repo from github
 
 Then use these commands in the terminal:
 
-npm i 
+<pre> <code>```npm i```</code> </pre>
 
-node index.js
+<pre> <code>```node index.js ```</code> </pre>
 
 ## Usage
 generates a readme
