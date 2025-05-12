@@ -14,7 +14,13 @@ This program generates a readMe file by taking users inputs via command line pro
  
 
 ## Installation
-clone the repo npm i node index.js
+clone the repo from github
+
+Then use these commands in the terminal:
+
+npm i 
+
+node index.js
 
 ## Usage
 generates a readme
