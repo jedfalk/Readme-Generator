@@ -23,7 +23,7 @@ Then use these commands in the terminal:
 <pre> <code>```node index.js ```</code> </pre>
 
 ## Usage
-generates a readme
+This project helps developers make a readme easily
 
 ## Contributing
 If you would like to contribute email me
