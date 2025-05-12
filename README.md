@@ -26,7 +26,7 @@ Then use these commands in the terminal:
 generates a readme
 
 ## Contributing
-Email me at jedfalk@gmail.com
+If you would like to contribute email me
 
 ## Questions
 If you have any questions please reach out at jedfalk@gmail.com. You can find more of my projects at jedfalk.
