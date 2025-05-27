@@ -23,7 +23,7 @@ Then use these commands in the terminal:
 <pre> <code>```node index.js ```</code> </pre>
 
 ## Usage
-This project helps developers make a readme easily
+app being used: (https://app.screencastify.com/v2/watch/LrrsC1HBXqKvTRPZcqyL)
 
 ## Contributing
 If you would like to contribute email me
